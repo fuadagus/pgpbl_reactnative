@@ -1,4 +1,4 @@
-#Acara 7 - Instalasi dan Konfigurasi
+# Acara 7 - Instalasi dan Konfigurasi
 ## Persiapan
 1. Installasi node js LTS https://nodejs.org/dist/v16.13.0/node-v16.13.0-x64.msi
    ![alt text](image1.png)
